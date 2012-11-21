@@ -1,13 +1,13 @@
-package ttt.ac;
+package t1;
 
-public class UU {
+public class T1 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hhh");
+		System.out.println("t1");
 
 	}
 
